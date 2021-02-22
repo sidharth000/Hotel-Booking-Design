@@ -1,1 +1,1 @@
-# Sample-Hotel-Booking-Design
+# Hotel-Booking-Design
